@@ -1,7 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-repository is initialized with git files.
+  repository is initialized with git files.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-Staging area controls if git tracks a file or not.
+  Staging area controls if git tracks a file or not.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+  Files can be seperately added to the staging area and then also seperately commited.
