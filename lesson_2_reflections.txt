@@ -22,3 +22,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
   Merging adds changes from both branches into the active branch. Commits are then sorted by date and become intervoven.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+  Git cannot merge automatically conflicting sections of code since it requires understanding of the reasons.
+  
