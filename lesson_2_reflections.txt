@@ -18,3 +18,7 @@ How do the diagrams help you visualize the branch structure?
   
   They show which commits are reachable by which branch.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+  Merging adds changes from both branches into the active branch. Commits are then sorted by date and become intervoven.
+
